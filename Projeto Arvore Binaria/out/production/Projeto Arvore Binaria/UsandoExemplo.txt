@@ -1,0 +1,8 @@
+compilar:
+javac StdIn.java
+javac StdOut.java
+javac BSTree.java
+
+uso:
+
+java BSTree Entrada-02.in Procurando.txt
